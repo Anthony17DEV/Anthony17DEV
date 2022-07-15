@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Anthony17DEV
+- 👀 I’m interested in work with python
+- 🌱 I’m currently learning python, HTML and C
+- 💞️ I’m looking to collaborate on companies
+- 📫 You can find me through my social networks, E-mails or GitHub.
+- Instagram: ynf.anthony
+- E-mail: airanthony17@gmail.com
