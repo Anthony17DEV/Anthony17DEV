@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Anthony17DEV
-- 👀 I’m interested in python development focused jobs
-- 🌱 I’m currently learning python, HTML and C
-- 💞️ I’m looking to collaborate on with companies
-- 📫 You can reach me via E-mail or GitHub
