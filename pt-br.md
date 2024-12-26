@@ -1,0 +1,3 @@
+# Olá, meu nome é Anthony Anderson
+
+Comecei a estudar programação em 2020 porque sempre fui apaixonado por informática e por saber como as coisas funcionariam internamente, entrei em um curso de tecnologia e lá aprendi Python e PHP, que foram responsáveis ​​por me apresentar a esse mundo e me fazer apaixonar com isso sou apaixonado por criar coisas do zero e vê-las funcionar, gosto de resolver problemas e trazer alternativas para cada um deles, meu foco atualmente continua sendo o backend mas mais focado na estrutura da coisa, Agora estou estudando idiomas com foco em para criar aplicativos como dart com flutter, por exemplo. Aqui no meu perfil você verá diversos projetos, dos mais básicos aos mais avançados.
