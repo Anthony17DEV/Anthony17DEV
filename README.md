@@ -2,6 +2,7 @@
 
 - [pt-br](./pt-br.md)
 
+I started studying programming in 2020 because I have always been passionate about computers and knowing how things would work internally, I joined a technology course and there I learned Python and PHP, which were responsible for introducing me to this world and making me fall in love with it, I am I'm passionate about creating things from scratch and seeing them work, I like solving problems and bringing alternatives to each one of them, my focus currently continues to be the backend but more focused on the structure of the thing, I'm now studying languages ​​focused on for building apps like dart with flutter for example. Here on my profile you will see different projects, from the most basic to the most advanced.
 
 <hr>
 
