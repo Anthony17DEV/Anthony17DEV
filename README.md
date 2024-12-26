@@ -6,8 +6,8 @@
 <hr>
 
 <a href="https://github.com/Anthony17DEV">
-  <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api?username=gabriel-batistuta&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api/top-langs/?username=gabriel-batistuta&layout=compact&hide_border=true&show_icons=true&langs_count=6&theme=github_dark&hide=cmake,c,scss,html,c%2B%2B,jupyter%20notebook"/>
+  <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api?username=Anthony17DEV&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-gb9t.vercel.app/api/top-langs/?username=Anthony17DEV&layout=compact&hide_border=true&show_icons=true&langs_count=6&theme=github_dark&hide=cmake,c,scss,html,c%2B%2B,jupyter%20notebook"/>
 </div>
 
 # Skills
